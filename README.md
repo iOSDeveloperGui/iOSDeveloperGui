@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor iOS, São Paulo - Brasil
 
-🌱 Busco oportunidade como: desenvolvimento iOS, engenheiro de software iOS,.
+🌱 Busco oportunidade como: Desenvolvedor iOS, engenheiro de software iOS.
 
 📄 Meu LinkedIn: https://www.linkedin.com/in/guilherme-silva-dias-459a7a230
 
