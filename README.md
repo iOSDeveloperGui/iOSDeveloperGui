@@ -1,14 +1,16 @@
-Olá, sou Guilherme Silva Dias
+👤 Olá, sou Guilherme Silva Dias
 
-Desenvolvedor iOS, São Paulo - Brasil
+💻 Desenvolvedor iOS, São Paulo - Brasil
 
-🌱 Atualmente trabalho com: Análise de dados, levantamento de requisitos, automações, metodologia ágil, ETL e visualização de dados.
+🌱 Busco oportunidade como: desenvolvimento iOS, engenheiro de software iOS,.
 
 📄 Meu LinkedIn: https://www.linkedin.com/in/guilherme-silva-dias-459a7a230
 
 🔭 Desenvolvendo conhecimentos: Swift, JavaScript, HTML, CSS. 
 
 📖 FrameWork: SwiftUI, Ulkit
+
+🧑🏻‍💻 Arquitetura: MVVM & Clean Architecture 
 
 📫 Como entrar em contato comigo: guilhermesilvadias535@gmail.com
 
