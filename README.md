@@ -6,11 +6,11 @@
 
 📄 Meu LinkedIn: https://www.linkedin.com/in/guilherme-silva-dias-459a7a230
 
-🔭 Desenvolvendo conhecimentos: Swift, JavaScript, HTML, CSS. 
+🔭 Desenvolvendo conhecimentos: Swift, Java, JavaScript. 
 
 📖 FrameWork: SwiftUI, Ulkit
 
-🧑🏻‍💻 Arquitetura: MVVM & Clean Architecture 
+🧑🏻‍💻 Arquitetura: MVVM & MVC.
 
 📫 Como entrar em contato comigo: guilhermesilvadias535@gmail.com
 
