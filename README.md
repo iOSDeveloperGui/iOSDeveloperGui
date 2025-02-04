@@ -1,18 +1,18 @@
-👤 Olá, sou Guilherme Silva Dias
+👤 Hello, I'm Guilherme Silva Dias
 
-💻 Desenvolvedor iOS, São Paulo - Brasil
+💻 iOS Developer, São Paulo - Brazil
 
-🌱 Busco oportunidade como: Desenvolvedor iOS, engenheiro de software iOS.
+🌱 I'm looking for an opportunity as: iOS developer, iOS software engineer.
 
-📄 Meu LinkedIn: https://www.linkedin.com/in/guilherme-silva-dias-459a7a230
+📄 My LinkedIn: https://www.linkedin.com/in/guilherme-silva-dias-459a7a230
 
-🔭 Desenvolvendo conhecimentos: Swift, Java, JavaScript. 
+🔭 Developing knowledge: Swift, Java, JavaScript.
 
 📖 FrameWork: SwiftUI, Ulkit
 
-🧑🏻‍💻 Arquitetura: MVVM & MVC.
+🧑🏻‍💻 Architecture: MVVM & MVC.
 
-📫 Como entrar em contato comigo: guilhermesilvadias535@gmail.com
+📫 How to contact me: guilhermesilvadias535@gmail.com
 
 <!---
 iOSDevoloperGui/iOSDevoloperGui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
