@@ -2,8 +2,6 @@
 
 💻 iOS Developer, São Paulo - Brazil
 
-🌱 I'm looking for an opportunity as: iOS developer, iOS software engineer.
-
 📄 My LinkedIn: https://www.linkedin.com/in/guilherme-silva-dias-459a7a230
 
 🔭 Developing knowledge: Swift, Java, JavaScript.
